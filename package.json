@@ -1,0 +1,19 @@
+{
+  "name": "ts_gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevroid/TS_gb_kirtim.git"
+  },
+  "author": "KirTim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevroid/TS_gb_kirtim/issues"
+  },
+  "homepage": "https://github.com/Nevroid/TS_gb_kirtim#readme"
+}
