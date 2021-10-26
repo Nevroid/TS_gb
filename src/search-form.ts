@@ -1,6 +1,8 @@
 import { lastDate, today } from './dates.js'
 import { renderBlock } from './lib.js'
 
+
+
 export function renderSearchFormBlock (checkinDate:string, checkoutDate: string) {
   renderBlock(
     'search-form-block',
@@ -32,7 +34,7 @@ export function renderSearchFormBlock (checkinDate:string, checkoutDate: string)
             <input id="max-price" type="text" value="" name="price" class="max-price" />
           </div>
           <div>
-            <div><button>Найти</button></div>
+            <div><button id="searchBtn">Найти</button></div>
           </div>
         </div>
       </fieldset>
